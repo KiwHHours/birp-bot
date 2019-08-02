@@ -1,0 +1,19 @@
+{
+  "name": "birp",
+  "version": "0.0.1",
+  "description": "Created By KiwHHours",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "biRP",
+  "license": "ISC",
+  "dependencies": {
+    "aliases": "^1.0.0",
+    "chalk": "^2.4.2",
+    "db": "^1.1.1",
+    "discord.js": "^11.5.1",
+    "moment": "^2.24.0",
+    "quick": "0.0.6"
+  }
+}
